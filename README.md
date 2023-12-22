@@ -39,4 +39,3 @@ Licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detai
 ## Acknowledgments
 
 - Dataset: [X-Wines: A Wine Dataset for Recommender Systems and Machine Learning](https://www.mdpi.com/2504-2289/7/1/20)
-- Citation for the dataset:
